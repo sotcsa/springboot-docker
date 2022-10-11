@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 #sdk use java 17.0.4-amzn
-./gradlew clean build
+#./gradlew clean build
 docker build -t springboot-docker .
